@@ -8,7 +8,7 @@ import os
 
 # Configuration IA
 genai.configure(
-    api_key="AIzaSyALGkNRWYmAU3bv2mCBk5xc9rPXQg12Uto"
+    api_key="Google API Key"
 )
 model = genai.GenerativeModel("gemini-2.5-flash")
 agent = AIAgent(model)
@@ -31,3 +31,4 @@ def ask(query: Query, client=Depends(get_client)):
         "client": client,
         "answer": answer
     }
+
