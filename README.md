@@ -14,7 +14,7 @@ Ce projet met en place un backend IA multi-locataires utilisant FastAPI et Googl
 ```bash
 git clone https://github.com/SAHELBouchra/multi-tenant-ai.git
 cd multi-tenant-ai
-pip install -r backend/requirements.txt
+pip install -r requirements.txt
 
 ```
 ---
@@ -47,7 +47,7 @@ http://127.0.0.1:8000
 ## c/ Pour tester :
 - Change "client_a" → "client_b"
 - Pose la question
-- Cliquer sur envoyer la question
+- Clique sur envoyer la question
 - Observe la réponse
 
 ==>La même question produit des réponses différentes selon le contexte du client.
