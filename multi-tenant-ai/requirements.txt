@@ -1,0 +1,5 @@
+Python 
+FastAPI
+Uvicorn
+Streamlit
+google-generativeai
