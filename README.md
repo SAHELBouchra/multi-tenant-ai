@@ -45,10 +45,10 @@ The API will be available at:
 http://127.0.0.1:8000
 
 ## c/ Pour tester :
-1/Change "client_a" → "client_b"
-2/Pose la question
-3/ Cliquer sur envoyer la question
-4/ Observe la réponse
+- Change "client_a" → "client_b"
+- Pose la question
+- Cliquer sur envoyer la question
+- Observe la réponse
 
 ==>La même question produit des réponses différentes selon le contexte du client.
 
